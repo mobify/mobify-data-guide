@@ -116,8 +116,11 @@ SQL is used everywhere.
 
 ### Git
 
-"Why do I care about git?"  That's a common question that is asked and as an engineering company,
-a lot of our discussion happen on github.  Being familiar with your workflow on git will
+> "Why do I care about git/(x version control)?", Anon, including a lot of us in the past.
+
+That's a common question that is asked.  As an engineering
+company where we seek [open discussion](https://github.com/mobify/developer-values#-seek-feedback)
+a lot of our discussion happen through [Pull request](https://code.tutsplus.com/tutorials/using-pull-requests-as-code-reviews--cms-21959).  Being familiar with your workflow on git will
 help you in communicating with your peers.
 
 > The [codecademy git course](https://www.codecademy.com/learn/learn-git) is our recommended way
