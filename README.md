@@ -59,11 +59,18 @@ on what we think is the minimal set to bootstrap to working on data challenges.
 
 -----------------
 
-# How big is this?
+## How much time would this takes?
 
-* Number of articles: 2
-* Number of tutorials: 3
-* Number of advance readings: 1
+What happen if I need to go to interview / hackathon tomorrow?
+
+* Number of articles (10-15 mins each): 2
+* Number of tutorials (a few hours each): 4
+* Number of advance readings (10-30 mins each): 2
+
+We recommend you at least go through the articles and take the:
+* `Python + Pandas` tutorial
+* setup your environment following [Setting up your data dojo](#setting-up-your-data-dojo)
+
 
 -----------------
 
@@ -123,10 +130,25 @@ help you in communicating with your peers.
 
 -----------------
 
-## Setting up your environment
+## 🚀 Setting up your data dojo
 
-### Using notebook to explain your workflow
-### Pandas
+So are you ready to get started?  One thing we found correlated to ability of interview candidates
+is the ability to get comfortable with the environment that you will use during the
+interview.  We try to give a few tips.
+
+Also see [Disclaimer](#disclaimer) - that Mobfiy is a Python shop and likely to be
+Python focus for our data dojo! Our tool of choice is [Jupyter notebook](http://jupyter.org/)
+
+### Hosted version
+
+[Data Science workbench](https://datascientistworkbench.com/) is a great way to get started.
+It present you with a hosted version of the notebook.  And the onboarding was useful.
+
+### Self setup version
+
+(advance) If you want to setup a self-hosted version of Jupyter, you might want to check out
+[this tutorial](http://jupyter.readthedocs.io/en/latest/install.html)
+
 
 -----------------
 
