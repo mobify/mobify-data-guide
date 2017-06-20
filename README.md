@@ -59,6 +59,14 @@ on what we think is the minimal set to bootstrap to working on data challenges.
 
 -----------------
 
+# How big is this?
+
+* Number of articles: 2
+* Number of tutorials: 3
+* Number of advance readings: 1
+
+-----------------
+
 ## 💭 Getting started
 
 So you would like to work on data eh?  There are many great resources to get you
@@ -74,10 +82,43 @@ articles:
       a real-world engineering scenario
 
 
-## 
+------------------
+
+## 🚅 Engineering tools 101
+
+So ready to get started?  There are 3 main engineering tool we use and hope to gather
+some quick intro to bootstrap any beginners.
+
+
+### Python + Pandas
+
+At Mobify, we are a python shop which makes us focus our analysis on Python + Pandas.
+Below is some of our favorite tutorial to get started:
+
+> [DataQuest/Data scientist](https://www.dataquest.io/) is a good onboarding for Python and Pandas.
+- The on-boarding experience with the personalization win us over.
+
+
+### SQL
+
+SQL is used everywhere.
+
+> The [codecademy sql course](https://www.codecademy.com/learn/learn-sql) is good.
+- Especially encourage to explore and try different queries in their interface.
+
 
 ### Git
-### SQL
+
+"Why do I care about git?"  That's a common question that is asked and as an engineering company,
+a lot of our discussion happen on github.  Being familiar with your workflow on git will
+help you in communicating with your peers.
+
+> The [codecademy git course](https://www.codecademy.com/learn/learn-git) is our recommended way
+  to learn git.
+
+(advance) If you are interested - our [branching strategy](https://github.com/mobify/branching-strategy)
+  is a good way to learn about real-life discipline on how we use git.
+
 
 
 -----------------
@@ -101,4 +142,7 @@ articles:
 
 We are an data shop with engineering focus shop and is opinionated towards
 selecting easy to get started tools that works with our well with our stack (e.g. `Python`,
- `Jupyter Notebook`) - this is a way that we found it works well for us, but not
+ `Jupyter Notebook`) - this is a way that we found it works well for us.
+
+We have no affilation to any of the companies mentioned in this list.
+
