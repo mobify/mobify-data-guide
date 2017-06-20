@@ -30,29 +30,55 @@ useful to get started working with any data set.
 > Computer, compute to the last digit the value of pi.
 
 
-# Why this guide?
+## 🤔 Why this guide?
 
 This is an open-source guide that is intended to gather feedback from various
 people that have worked with data teams.  In Mobify, we work closely with talents
 from [wide variety of backgrounds](https://github.com/mobify/developer-values#️-promote-diversity-and-collaboration).
 
+ 🔥 🤔 😎 🚀 💭 🍾 😈 ⚖ 💕 💕
+
 We hope that by opening some of our onboarding materials, this will give you a taste
-for what is our style of work, 
+for what is our style of work, as well as helping out candidates on
+[interviews](https://www.mobify.com/jobs/how-to-land-job-mobify/), or
+[data hackathons](https://www.eventbrite.com/e/global-ai-hackathon-vancouver-bc-tickets-31891933632).
 
-# Content of this guide
-
-* Quick start to useful engineering tools
-* Setting up your environment
-* Product thinking as a Data Scientist
 
 -----------------
 
-## Quick start to useful engineering tools
+## Content of this guide
 
-Some readings around useful tools:
+This is not meant to be a comprehensive guide, but a list of selected resources
+on what we think is the minimal set to bootstrap to working on data challenges.
+
+* [Getting started](#getting-started)
+* [Engineering tools 101](#engineering-tools-101)
+* [Setting up your data dojo](#setting-up-your-data-dojo)
+* [Team working as with Data](#team-working-with-data)
+
+
+-----------------
+
+## 💭 Getting started
+
+So you would like to work on data eh?  There are many great resources to get you
+started with the path to work with data.  For us, we recommend a few of these
+articles:
+
+* [Quora's answer - How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist-1)
+    - Focus on path on Data scientist. Gives good overview for background / readings that would be helpful
+    - A few of these articles we will dive in at following sections
+
+* [Applying the Scientific Method to Software Engineering](https://medium.com/lightstephq/solving-research-problems-before-lunch-applying-the-scientific-method-to-software-engineering-fded26f51038)
+    - This is a good article explaining the intersection between between academia and
+      a real-world engineering scenario
+
+
+## 
 
 ### Git
 ### SQL
+
 
 -----------------
 
