@@ -36,7 +36,7 @@ This is an open-source guide that is intended to gather feedback from various
 people that have worked with data teams.  In Mobify, we work closely with talents
 from [wide variety of backgrounds](https://github.com/mobify/developer-values#️-promote-diversity-and-collaboration).
 
- 🔥 🤔 😎 🚀 💭 🍾 😈 ⚖ 💕 💕
+🔥 🤔 😎 🕐 🚀 💭 🍾 😈 ⚖ 💕 💕
 
 We hope that by opening some of our onboarding materials, this will give you a taste
 for what is our style of work, as well as helping out candidates on
@@ -46,7 +46,7 @@ for what is our style of work, as well as helping out candidates on
 
 -----------------
 
-## Content of this guide
+## 🕐 Content of this guide
 
 This is not meant to be a comprehensive guide, but a list of selected resources
 on what we think is the minimal set to bootstrap to working on data challenges.
@@ -54,7 +54,7 @@ on what we think is the minimal set to bootstrap to working on data challenges.
 * [Getting started](#getting-started)
 * [Engineering tools 101](#engineering-tools-101)
 * [Setting up your data dojo](#setting-up-your-data-dojo)
-* [Team working as with Data](#team-working-with-data)
+* [Team working as proud geeks - Keep open mind](#team-working-as-proud-keep-open-mind)
 
 
 -----------------
@@ -63,9 +63,9 @@ on what we think is the minimal set to bootstrap to working on data challenges.
 
 What happen if I need to go to interview / hackathon tomorrow?
 
-* Number of articles (10-15 mins each): 2
+* Number of articles (10-15 mins each): 5
 * Number of tutorials (a few hours each): 4
-* Number of advance readings (10-30 mins each): 2
+* Number of advance readings (10-30 mins each): 3
 
 We recommend you at least go through the articles and take the:
 * `Python + Pandas` tutorial
@@ -155,15 +155,45 @@ It present you with a hosted version of the notebook.  And the onboarding was us
 
 -----------------
 
-## Product thinking as a Data Scientist
+## 😎 Team working as proud geeks - Keep open mind
 
-(TBD)
+As most of us being proud of diving into our problems, and present our solutions.  Overtime,
+we learn a few tools to align colleagues / fellow hackers with our thoughts. Here are a few:
+
+
+### Learn by talking to people
+
+
+Working in a team, [focus on problem and learn from customers](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
+
+- Learn from documenting what you can learn from interviewing people and documenting your conversations
+
+
+### Co-ordinates by regular and early checkin
+
+![dl-lean-canvas](https://cdn-images-1.medium.com/max/1000/1*FBpxv30vpAYqohILAYbTzQ.png)
+
+This is something about [30% feedback](https://42floors.com/blog/startups/thirty-percent-feedback)
+where we try to ensure everybody is on the same page early in the project.
+
+This is especially important in Hackathon / stress sprints.  Doing some silly postit + Canvasing is a
+great way to open our mind.  More at [Introducing the Deep Learning Canvas - a variation on Startup Canvas](https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11)
+
+
+### Design sprint - Keeping open minded
+
+(advance)
+
+One tool we love is to run a [Design sprint](https://designsprintkit.withgoogle.com/) it takes 5 days
+and a full team.
+
+We also enjoy a minimal version of this [The 25-Minute Design Sprint](https://www.uxpin.com/studio/blog/the-25-minute-design-sprint/) which we find it helpful to adjust and adapt.
 
 
 -----------------
 
 
-# Disclaimer
+## 😈 Disclaimer
 
 We are an data shop with engineering focus shop and is opinionated towards
 selecting easy to get started tools that works with our well with our stack (e.g. `Python`,
