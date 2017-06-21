@@ -1,34 +1,31 @@
+```                       
+                                                .ⁿ─
+                  `:-.                        Γ     ¼  
+                 -yyyyys+:`                  ╛       ╕
+                /y╔▓▓yyyyy`  +o+/:-.        á         ╕
+              `o▄▓▓▓▓▓▓▄y-  :hhhhhhhs      ╒           -     
+             `s╙▀▀░▓▓░▀▀y+   yhhhhhhhy    ╒                ,.   
+         `-/oyyyyyy▓▓yyo   :hhhhhhhhs                    ⌂╞    ½    
+      -/oyyyyyyyyyy▓▓yo`   shhhhhhhhs    ┘              /  k     ½   
+    +yyyyyyyyyyyyyy▓▓+    `hhhhhhhhho   ╛              ⌂     ½     ï   
+    +yyyyyyyyyyyyyy▓▓     .hhhhhhhhho  ┘              ;        ½     -   
+    `yyyyyyyyys+/. ▓▓      yhhhhhhhhhs`              ;           Y     ╚
+     -yso+/-.`     ▓▓      .yhhhhhhhhhy.            ⌂              ╘      \,   
+             ```...▓▓`      `shhhhhhhhhy.         .                   -      ⁿ.
+       -://++++++++▓▓++/-`    /yhhhhhhhhy.      .                        ^-     ~,   
+       /+++++++++++▓▓+++++/.   `ohhhhhhy+`   .⌐                              ⁿ,      ^-
+      ░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓
+       `+++++++++++▓▓++++++++++-`  -`                             
+        `......-...▓▓+++++++++++/`
+                   ▓▓`-/+++++++:`
+                   ▓▓    `.:/+:`       
+```
+> Computer, compute to the last digit the value of pi.
+
 # Mobify Data Guide
 
 Welcome to Mobify's data guide!  We provide a list of reading that would be
 useful to get started working with any data set.
-
-```
-    ~
-    ░                                                                        
- .09░                                .ⁿ─      ⌐-                            
-    ░                               ┘    ¼  /  | ,                           
- .08░                             ,       1ⁿ   |   -                         
-    ░                                     ⌂╞   |    .                         
- .07░                            Γ       /  @  |                             
-    ░                           ╛       ╒    ╕ |     ,                       
- .06░                          á        ⌐    ⌐-       ╘                      
-    ░                         ╒        ┘      └        ï                     
- .05░                        ╒        ⌂        ╚        -                    
-    ░                                /          k        .                    
- .04░                       ┘       ;            ½                           
-    ░                      ╛       /           |  ½       ,.                  
- .03░                     ┘       /            |   Y        .                 
-    ░                   ╒        ⌂  . . . . . >|    ╘        -               
- .02░                  ∩       .               |      -       ,              
-    ░                ¬       .                 |       ^-       ⁿ            
- .01░             «,      .⌐                   |          ⁿ,       ~         
-    ░      ,.=¬,     .⌐,                       |              ,=- .   ,ⁿ⌐ . . .
-    +--------─~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~⌐~~~~~~~~~~~~~~~~¬~~~~~-----------|
-   0    1   2   3   4   5   6   7   8   9   10   11   12    13    14    15             
-```
-> Computer, compute to the last digit the value of pi.
-
 
 ## 🤔 Why this guide?
 
@@ -208,4 +205,3 @@ selecting easy to get started tools that works with our well with our stack (e.g
  `Jupyter Notebook`) - this is a way that we found it works well for us.
 
 We have no affilation to any of the companies mentioned in this list.
-
