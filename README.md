@@ -135,6 +135,13 @@ SQL is used everywhere.
 - Especially encourage to explore and try different queries in their interface.
 
 
+### Command line
+
+Being comfortable with command line will help a great deal in your work.  We 
+recommend taking [🏛 Codecademy command line course](https://www.codecademy.com/learn/learn-the-command-line)
+for this.
+
+
 ### Git
 
 > "Why do I care about git/(x version control)?", Anon, including a lot of us in the past.
