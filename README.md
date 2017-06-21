@@ -38,7 +38,7 @@ from [wide variety of backgrounds](https://github.com/mobify/developer-values#�
 
 🔥 🤔 😎 🕐 🚀 💭 🍾 😈 ⚖ 💕 💕
 
-We hope that by opening some of our onboarding materials, this will give you a taste
+We hope that by opening some of our on-boarding materials, this will give you a taste
 for what is our style of work, as well as helping out candidates on
 [interviews](https://www.mobify.com/jobs/how-to-land-job-mobify/), or
 [data hackathons](https://www.eventbrite.com/e/global-ai-hackathon-vancouver-bc-tickets-31891933632).
@@ -61,11 +61,17 @@ on what we think is the minimal set to bootstrap to working on data challenges.
 
 ## How much time would this takes?
 
-What happen if I need to go to interview / hackathon tomorrow?
+We attempt to make this a concise guide (see [CONTRIBUTING.md](CONTRIBUTING.md) for
+further information).
 
-* Number of articles (10-15 mins each): 5
-* Number of tutorials (a few hours each): 4
-* Number of advance readings (10-30 mins each): 3
+We denote each type of articles with Emoji: 📜 🏛 📚
+
+* 📜 Articles - expect around 10-15 mins reading time
+* 🏛 Tutorials - expect minimal half day exercise
+* 📚 Advance Reference (optional readings) - vary in reading time
+
+
+### What happen if I am preparing for an interview / hackathon tomorrow?
 
 We recommend you at least go through the articles and take the:
 * `Python + Pandas` tutorial
@@ -80,11 +86,11 @@ So you would like to work on data eh?  There are many great resources to get you
 started with the path to work with data.  For us, we recommend a few of these
 articles:
 
-* [Quora's answer - How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist-1)
+* [📜 Quora's answer - How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist-1)
     - Focus on path on Data scientist. Gives good overview for background / readings that would be helpful
     - A few of these articles we will dive in at following sections
 
-* [Applying the Scientific Method to Software Engineering](https://medium.com/lightstephq/solving-research-problems-before-lunch-applying-the-scientific-method-to-software-engineering-fded26f51038)
+* [📜 Applying the Scientific Method to Software Engineering](https://medium.com/lightstephq/solving-research-problems-before-lunch-applying-the-scientific-method-to-software-engineering-fded26f51038)
     - This is a good article explaining the intersection between between academia and
       a real-world engineering scenario
 
@@ -102,7 +108,7 @@ some quick intro to bootstrap any beginners.
 At Mobify, we are a python shop which makes us focus our analysis on Python + Pandas.
 Below is some of our favorite tutorial to get started:
 
-> [DataQuest/Data scientist](https://www.dataquest.io/) is a good onboarding for Python and Pandas.
+> [🏛 DataQuest/Data scientist](https://www.dataquest.io/) is a good onboarding for Python and Pandas.
 - The on-boarding experience with the personalization win us over.
 
 
@@ -110,7 +116,7 @@ Below is some of our favorite tutorial to get started:
 
 SQL is used everywhere.
 
-> The [codecademy sql course](https://www.codecademy.com/learn/learn-sql) is good.
+> The [🏛 Codecademy sql course](https://www.codecademy.com/learn/learn-sql) is good.
 - Especially encourage to explore and try different queries in their interface.
 
 
@@ -119,14 +125,14 @@ SQL is used everywhere.
 > "Why do I care about git/(x version control)?", Anon, including a lot of us in the past.
 
 That's a common question that is asked.  As an engineering
-company where we seek [open discussion](https://github.com/mobify/developer-values#-seek-feedback)
-a lot of our discussion happen through [Pull request](https://code.tutsplus.com/tutorials/using-pull-requests-as-code-reviews--cms-21959).  Being familiar with your workflow on git will
+company where we seek [📚 open discussion](https://github.com/mobify/developer-values#-seek-feedback)
+a lot of our discussion happen through [📚 Pull request](https://code.tutsplus.com/tutorials/using-pull-requests-as-code-reviews--cms-21959).  Being familiar with your workflow on git will
 help you in communicating with your peers.
 
-> The [codecademy git course](https://www.codecademy.com/learn/learn-git) is our recommended way
+> The [🏛 Codecademy git course](https://www.codecademy.com/learn/learn-git) is our recommended way
   to learn git.
 
-(advance) If you are interested - our [branching strategy](https://github.com/mobify/branching-strategy)
+(advance) If you are interested - our [📚 branching strategy](https://github.com/mobify/branching-strategy)
   is a good way to learn about real-life discipline on how we use git.
 
 
@@ -150,7 +156,7 @@ It present you with a hosted version of the notebook.  And the onboarding was us
 ### Self setup version
 
 (advance) If you want to setup a self-hosted version of Jupyter, you might want to check out
-[this tutorial](http://jupyter.readthedocs.io/en/latest/install.html)
+[🏛 this tutorial](http://jupyter.readthedocs.io/en/latest/install.html)
 
 
 -----------------
@@ -163,31 +169,28 @@ we learn a few tools to align colleagues / fellow hackers with our thoughts. Her
 
 ### Learn by talking to people
 
-
-Working in a team, [focus on problem and learn from customers](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
+Working in a team, [📜 focus on problem and learn from customers](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
 
 - Learn from documenting what you can learn from interviewing people and documenting your conversations
 
 
 ### Co-ordinates by regular and early checkin
 
-![dl-lean-canvas](https://cdn-images-1.medium.com/max/1000/1*FBpxv30vpAYqohILAYbTzQ.png)
+![📜 dl-lean-canvas](https://cdn-images-1.medium.com/max/1000/1*FBpxv30vpAYqohILAYbTzQ.png)
 
-This is something about [30% feedback](https://42floors.com/blog/startups/thirty-percent-feedback)
+This is something about [📜 30% feedback](https://42floors.com/blog/startups/thirty-percent-feedback)
 where we try to ensure everybody is on the same page early in the project.
 
 This is especially important in Hackathon / stress sprints.  Doing some silly postit + Canvasing is a
-great way to open our mind.  More at [Introducing the Deep Learning Canvas - a variation on Startup Canvas](https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11)
+great way to open our mind.  More at [📜 Introducing the Deep Learning Canvas - a variation on Startup Canvas](https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11)
 
 
-### Design sprint - Keeping open minded
+### Data Design sprint - Keeping open minded
 
-(advance)
-
-One tool we love is to run a [Design sprint](https://designsprintkit.withgoogle.com/) it takes 5 days
+One tool we love is to run a [📜 Design sprint](https://designsprintkit.withgoogle.com/) it takes 5 days
 and a full team.
 
-We also enjoy a minimal version of this [The 25-Minute Design Sprint](https://www.uxpin.com/studio/blog/the-25-minute-design-sprint/) which we find it helpful to adjust and adapt.
+We also enjoy a minimal version of this [📜 The 25-Minute Design Sprint](https://www.uxpin.com/studio/blog/the-25-minute-design-sprint/) which we find it helpful to adjust and adapt.
 
 
 -----------------
