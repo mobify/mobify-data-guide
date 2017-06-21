@@ -36,7 +36,7 @@ This is an open-source guide that is intended to gather feedback from various
 people that have worked with data teams.  In Mobify, we work closely with talents
 from [wide variety of backgrounds](https://github.com/mobify/developer-values#️-promote-diversity-and-collaboration).
 
-🔥 🤔 😎 🕐 🚀 💭 🍾 😈 ⚖ 💕 💕
+🔥 🤔 😎 🕐 🚀 💭 🍾 😈 ⚖ 💕
 
 We hope that by opening some of our on-boarding materials, this will give you a taste
 for what is our style of work, as well as helping out candidates on
@@ -57,9 +57,7 @@ on what we think is the minimal set to bootstrap to working on data challenges.
 * [Team working as proud geeks - Keep open mind](#team-working-as-proud-keep-open-mind)
 
 
------------------
-
-## How much time would this takes?
+### Ease of read
 
 We attempt to make this a concise guide (see [CONTRIBUTING.md](CONTRIBUTING.md) for
 further information).
@@ -74,8 +72,10 @@ We denote each type of articles with Emoji: 📜 🏛 📚
 ### What happen if I am preparing for an interview / hackathon tomorrow?
 
 We recommend you at least go through the articles and take the:
-* `Python + Pandas` tutorial
+
+* [Python + Pandas tutorial](#engineering-tools-101)
 * setup your environment following [Setting up your data dojo](#setting-up-your-data-dojo)
+  and run some practices
 
 
 -----------------
@@ -93,6 +93,15 @@ articles:
 * [📜 Applying the Scientific Method to Software Engineering](https://medium.com/lightstephq/solving-research-problems-before-lunch-applying-the-scientific-method-to-software-engineering-fded26f51038)
     - This is a good article explaining the intersection between between academia and
       a real-world engineering scenario
+
+
+------------------
+
+## 🚀 Data science 101
+
+(TBD)
+* statistics
+* machine learning techniques
 
 
 ------------------
@@ -167,31 +176,27 @@ As most of us being proud of diving into our problems, and present our solutions
 we learn a few tools to align colleagues / fellow hackers with our thoughts. Here are a few:
 
 
-### Learn by talking to people
+### Focus on the right problem to work on
 
-Working in a team, [📜 focus on problem and learn from customers](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
+> If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions
+― Albert Einstein
 
-- Learn from documenting what you can learn from interviewing people and documenting your conversations
+It is a suprisingly difficult skill to learn how to work on the right problem.  Here are a few tips:
 
+* [📜 focus on problem and learn from customers](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
 
-### Co-ordinates by regular and early checkin
-
-![📜 dl-lean-canvas](https://cdn-images-1.medium.com/max/1000/1*FBpxv30vpAYqohILAYbTzQ.png)
-
-This is something about [📜 30% feedback](https://42floors.com/blog/startups/thirty-percent-feedback)
-where we try to ensure everybody is on the same page early in the project.
-
-This is especially important in Hackathon / stress sprints.  Doing some silly postit + Canvasing is a
+* Small postit + Business Canvasing is a
 great way to open our mind.  More at [📜 Introducing the Deep Learning Canvas - a variation on Startup Canvas](https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11)
 
+* Data [📜 Design sprint](https://designsprintkit.withgoogle.com/) - Keeping open minded.  We also enjoy a minimal version of this [📜 The 25-Minute Design Sprint](https://www.uxpin.com/studio/blog/the-25-minute-design-sprint/) which we find it helpful to adjust and adapt.
 
-### Data Design sprint - Keeping open minded
 
-One tool we love is to run a [📜 Design sprint](https://designsprintkit.withgoogle.com/) it takes 5 days
-and a full team.
+### Communicating the results
 
-We also enjoy a minimal version of this [📜 The 25-Minute Design Sprint](https://www.uxpin.com/studio/blog/the-25-minute-design-sprint/) which we find it helpful to adjust and adapt.
+(TBD)
 
+* reproducibility
+* notebook hyigiene
 
 -----------------
 
