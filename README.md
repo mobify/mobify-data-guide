@@ -99,9 +99,15 @@ articles:
 
 ## 🚀 Data science 101
 
-(TBD)
-* statistics
-* machine learning techniques
+If you come from a non statistics / machine learning background, this will be a
+good starting point.
+
+* [📚 Statistics for hackers](https://github.com/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb) -
+  have a basic list of readings about statistics knowledge required.
+* [🏛 Machine Learning for hackers](http://slendermeans.org/category/will-it-python.html) - give
+  good coverage of various aspects of machine learning.
+* [📜 Scikit learn estimator map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) - is my
+  go to place for picking the right model to use.
 
 
 ------------------
@@ -192,8 +198,6 @@ great way to open our mind.  More at [📜 Introducing the Deep Learning Canvas 
 
 
 ### Communicating the results
-
-(TBD)
 
 * reproducibility
 * notebook hyigiene
