@@ -159,7 +159,7 @@ Python focus for our data dojo! Our tool of choice is [Jupyter notebook](http://
 
 ### Hosted version
 
-[Data Science workbench](https://datascientistworkbench.com/) is a great way to get started.
+[📚 Data Science workbench](https://datascientistworkbench.com/) is a great way to get started.
 It present you with a hosted version of the notebook.  And the onboarding was useful.
 
 ### Self setup version
