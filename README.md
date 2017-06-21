@@ -123,7 +123,7 @@ some quick intro to bootstrap any beginners.
 At Mobify, we are a python shop which makes us focus our analysis on Python + Pandas.
 Below is some of our favorite tutorial to get started:
 
-> [🏛 DataQuest/Data scientist](https://www.dataquest.io/) is a good onboarding for Python and Pandas.
+* [🏛 DataQuest/Data scientist](https://www.dataquest.io/) is a good onboarding for Python and Pandas.
 - The on-boarding experience with the personalization win us over.
 
 
@@ -131,7 +131,7 @@ Below is some of our favorite tutorial to get started:
 
 SQL is used everywhere.
 
-> The [🏛 Codecademy sql course](https://www.codecademy.com/learn/learn-sql) is good.
+* The [🏛 Codecademy sql course](https://www.codecademy.com/learn/learn-sql) is good.
 - Especially encourage to explore and try different queries in their interface.
 
 
@@ -199,8 +199,12 @@ great way to open our mind.  More at [📜 Introducing the Deep Learning Canvas 
 
 ### Communicating the results
 
-* reproducibility
-* notebook hyigiene
+> I'm not a great programmer; I'm just a good programmer with great habits - Kent Beck
+
+Writing a readable notebook and explaining the result is a great
+habit.  [📜 Clean code in Jupyter notebooks](https://www.slideshare.net/katenerush/clean-code-in-jupyter-notebooks) in our go to guide
+in how to create a clean notebook.
+
 
 -----------------
 
