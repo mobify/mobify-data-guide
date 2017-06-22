@@ -1,7 +1,19 @@
 # Mobify Data Guide
 
-Welcome to Mobify's data guide!  We provide a list of reading that would be
+Welcome to Mobify's data guide!  We provide a list of readings that would be
 useful to get started working with any data set.
+
+This is an open-source guide that is intended to gather feedback from various
+people that have worked with data teams.  In Mobify, we work closely with talents
+from [wide variety of backgrounds](https://github.com/mobify/developer-values#️-promote-diversity-and-collaboration).
+
+🔥 🤔 😎 🕐 🚀 💭 🍾 😈 ⚖ 💕
+
+We hope that by opening some of our onboarding materials, this will give you a taste
+for what is our style of work, as well as helping out candidates on
+[interviews](https://www.mobify.com/jobs/how-to-land-job-mobify/), or
+[data hackathons](https://www.eventbrite.com/e/global-ai-hackathon-vancouver-bc-tickets-31891933632).
+
 
 ```
     ~
@@ -30,25 +42,11 @@ useful to get started working with any data set.
 > Computer, compute to the last digit the value of pi.
 
 
-## 🤔 Why this guide?
-
-This is an open-source guide that is intended to gather feedback from various
-people that have worked with data teams.  In Mobify, we work closely with talents
-from [wide variety of backgrounds](https://github.com/mobify/developer-values#️-promote-diversity-and-collaboration).
-
-🔥 🤔 😎 🕐 🚀 💭 🍾 😈 ⚖ 💕
-
-We hope that by opening some of our on-boarding materials, this will give you a taste
-for what is our style of work, as well as helping out candidates on
-[interviews](https://www.mobify.com/jobs/how-to-land-job-mobify/), or
-[data hackathons](https://www.eventbrite.com/e/global-ai-hackathon-vancouver-bc-tickets-31891933632).
-
-
 -----------------
 
 ## 🕐 Content of this guide
 
-This is not meant to be a comprehensive guide, but a list of selected resources
+This is meant to be a list of selected resources
 on what we think is the minimal set to bootstrap to working on data challenges.
 
 * [Getting started](#getting-started)
@@ -57,7 +55,7 @@ on what we think is the minimal set to bootstrap to working on data challenges.
 * [Team working as proud geeks - Keep open mind](#team-working-as-proud-keep-open-mind)
 
 
-### Ease of read
+### Ease of reading
 
 We attempt to make this a concise guide (see [CONTRIBUTING.md](CONTRIBUTING.md) for
 further information).
@@ -69,7 +67,7 @@ We denote each type of articles with Emoji: 📜 🏛 📚
 * 📚 Advance Reference (optional readings) - vary in reading time
 
 
-### What happen if I am preparing for an interview / hackathon tomorrow?
+### What happens if I am preparing for an interview/hackathon tomorrow?
 
 We recommend you at least go through the articles and take the:
 
@@ -83,30 +81,30 @@ We recommend you at least go through the articles and take the:
 ## 💭 Getting started
 
 So you would like to work on data eh?  There are many great resources to get you
-started with the path to work with data.  For us, we recommend a few of these
+started on the path to work with data.  For us, we recommend a few of these
 articles:
 
 * [📜 Quora's answer - How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist-1)
-    - Focus on path on Data scientist. Gives good overview for background / readings that would be helpful
+    - Focus on career path on Data scientist. Gives good overview for background/readings that would be helpful
     - A few of these articles we will dive in at following sections
 
 * [📜 Applying the Scientific Method to Software Engineering](https://medium.com/lightstephq/solving-research-problems-before-lunch-applying-the-scientific-method-to-software-engineering-fded26f51038)
-    - This is a good article explaining the intersection between between academia and
+    - This is a good article explaining the intersection between academia and
       a real-world engineering scenario
 
 
 ------------------
 
-## 🚀 Data science 101
+## 🚀 Data Science 101
 
-If you come from a non statistics / machine learning background, this will be a
+If you come from a non statistics/machine learning background, this will be a
 good starting point.
 
 * [📚 Statistics for hackers](https://github.com/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb) -
   have a basic list of readings about statistics knowledge required.
 * [🏛 Machine Learning for hackers](http://slendermeans.org/category/will-it-python.html) - give
   good coverage of various aspects of machine learning.
-* [📜 Scikit learn estimator map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) - is my
+* [📜 Scikit-learn estimator map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) - is my
   go to place for picking the right model to use.
 
 
@@ -120,20 +118,17 @@ some quick intro to bootstrap any beginners.
 
 ### Python + Pandas
 
-At Mobify, we are a python shop which makes us focus our analysis on Python + Pandas.
-Below is some of our favorite tutorial to get started:
+At Mobify, we are a Python shop which makes us focus our analysis on Python + Pandas.
+Below is some of our favourite tutorial to get started:
 
 * [🏛 DataQuest/Data scientist](https://www.dataquest.io/) is a good onboarding for Python and Pandas.
-- The on-boarding experience with the personalization win us over.
 
 
 ### SQL
 
 SQL is used everywhere.
 
-* The [🏛 Codecademy sql course](https://www.codecademy.com/learn/learn-sql) is good.
-- Especially encourage to explore and try different queries in their interface.
-
+* The [🏛 Codecademy SQL course](https://www.codecademy.com/learn/learn-sql) is our favourite tutorial.
 
 ### Command line
 
@@ -163,21 +158,21 @@ help you in communicating with your peers.
 
 ## 🚀 Setting up your data dojo
 
-So are you ready to get started?  One thing we found correlated to ability of interview candidates
+So are you ready to get started?  One thing we found correlated to the ability of interview candidates
 is the ability to get comfortable with the environment that you will use during the
 interview.  We try to give a few tips.
 
-Also see [Disclaimer](#disclaimer) - that Mobfiy is a Python shop and likely to be
+Also, see [Disclaimer](#disclaimer) - that Mobfiy is a Python shop and likely to be
 Python focus for our data dojo! Our tool of choice is [Jupyter notebook](http://jupyter.org/)
 
 ### Hosted version
 
 [📚 Data Science workbench](https://datascientistworkbench.com/) is a great way to get started.
-It present you with a hosted version of the notebook.  And the onboarding was useful.
+It presents you with a hosted version of the notebook.  And the onboarding was useful.
 
-### Self setup version
+### Local setup (Advance)
 
-(advance) If you want to setup a self-hosted version of Jupyter, you might want to check out
+If you want to setup a self-hosted version of Jupyter, you might want to check out
 [🏛 this tutorial](http://jupyter.readthedocs.io/en/latest/install.html)
 
 
@@ -185,8 +180,8 @@ It present you with a hosted version of the notebook.  And the onboarding was us
 
 ## 😎 Team working as proud geeks - Keep open mind
 
-As most of us being proud of diving into our problems, and present our solutions.  Overtime,
-we learn a few tools to align colleagues / fellow hackers with our thoughts. Here are a few:
+As most of us being proud of diving into our problems, and present our solutions.  Over time,
+we learn a few tools to align colleagues/fellow hackers with our thoughts. Here are a few:
 
 
 ### Focus on the right problem to work on
@@ -194,12 +189,12 @@ we learn a few tools to align colleagues / fellow hackers with our thoughts. Her
 > If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions
 ― Albert Einstein
 
-It is a suprisingly difficult skill to learn how to work on the right problem.  Here are a few tips:
+It is a surprisingly difficult skill to learn how to work on the right problem.  Here are a few tips:
 
 * [📜 focus on problem and learn from customers](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
 
-* Small postit + Business Canvasing is a
-great way to open our mind.  More at [📜 Introducing the Deep Learning Canvas - a variation on Startup Canvas](https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11)
+* Whiteboarding and Canvasing is a
+great way to open our mind.  More at [📜 Introducing the Deep Learning Canvas - a variation on Startup Canvas](https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11) - You can print this out or grab a whiteboard and draw this out.
 
 * Data [📜 Design sprint](https://designsprintkit.withgoogle.com/) - Keeping open minded.  We also enjoy a minimal version of this [📜 The 25-Minute Design Sprint](https://www.uxpin.com/studio/blog/the-25-minute-design-sprint/) which we find it helpful to adjust and adapt.
 
@@ -218,9 +213,9 @@ in how to create a clean notebook.
 
 ## 😈 Disclaimer
 
-We are an data shop with engineering focus shop and is opinionated towards
-selecting easy to get started tools that works with our well with our stack (e.g. `Python`,
+We are a data shop with engineering focus shop and is opinionated towards
+selecting easy to get started tools that work with our well with our stack (e.g. `Python`,
  `Jupyter Notebook`) - this is a way that we found it works well for us.
 
-We have no affilation to any of the companies mentioned in this list.
+We have no affiliation to any of the companies mentioned in this list.
 
