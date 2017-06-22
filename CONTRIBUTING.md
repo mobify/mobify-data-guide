@@ -8,7 +8,7 @@ this guide:
 
 ## Conciseness over comprehensiveness
 
-We aim to make this guide concisive, relevant and updated.  As a result, if you
+We aim to make this guide concise, relevant and updated.  As a result, if you
 are including a new article, please state:
 
 * What extra information does this article provide?
@@ -21,12 +21,12 @@ in this list.
 
 ## Beginner friendly - read time: less than a week.
 
-We are hoping this guide would takes a non-technical data interested person only
+We are hoping this guide would take a non-technical data interested person only
 a few days to run through the list.  We hope they would be at the level to enjoy
-a data hackathon / intro to any tech company by the end of the week.
+a data hackathon/intro to any tech company by the end of the week.
 
 
 ## Opinionated towards Mobify's tech stack
 
-As mentioned in our disclaimer, this guide is meant to be part of on-boarding for
-Mobify, and as a result we have preference on our tool stack.
+As mentioned in our disclaimer, this guide is meant to be part of onboarding for
+Mobify, and as a result, we have a preference on our tool stack.
