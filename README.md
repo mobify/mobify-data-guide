@@ -123,6 +123,8 @@ At Mobify, we are a Python shop which makes us focus our analysis on Python + Pa
 Below is some of our favourite tutorial to get started:
 
 * [🏛 DataQuest/Data scientist](https://www.dataquest.io/) is a good onboarding for Python and Pandas.
+* (advance) [📜 Pandas with Seaborn](https://chrisalbon.com/python/pandas_with_seaborn.html) give a simple article
+  on how to do various Seaborn plots for data visualization.
 
 
 ### SQL
@@ -154,7 +156,6 @@ help you in communicating with your peers.
   is a good way to learn about real-life discipline on how we use git.
 
 
-
 -----------------
 
 ## 🚀 Setting up your data dojo
@@ -175,6 +176,12 @@ It presents you with a hosted version of the notebook.  And the onboarding was u
 
 If you want to setup a self-hosted version of Jupyter, you might want to check out
 [🏛 this tutorial](http://jupyter.readthedocs.io/en/latest/install.html)
+
+
+### Getting familiar with Jupyter notebook
+
+[📜 Short cut keys for Jupyter](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) will make
+you a Jupyter pro.
 
 
 -----------------
@@ -207,6 +214,11 @@ great way to open our mind.  More at [📜 Introducing the Deep Learning Canvas 
 Writing a readable notebook and explaining the result is a great
 habit.  [📜 Clean code in Jupyter notebooks](https://www.slideshare.net/katenerush/clean-code-in-jupyter-notebooks) in our go to guide
 in how to create a clean notebook.
+
+
+We would like to [Keep your analysis reproducible](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
+
+> Reproducibility is important because it is the only thing that an investigator can guarantee about a study. -- Roger Peng
 
 
 -----------------
