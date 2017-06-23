@@ -44,21 +44,7 @@ for what is our style of work, as well as helping out candidates on
 
 -----------------
 
-## 🕐 Content of this guide
-
-This is meant to be a list of selected resources
-on what we think is the minimal set to bootstrap to working on data challenges.
-
-* [Getting started](#getting-started)
-* [Engineering tools 101](#engineering-tools-101)
-* [Setting up your data dojo](#setting-up-your-data-dojo)
-* [Team working as proud geeks - Keep open mind](#team-working-as-proud-keep-open-mind)
-
-
-### Ease of reading
-
-We attempt to make this a concise guide (see [CONTRIBUTING.md](CONTRIBUTING.md) for
-further information).
+## 🔖 Legend
 
 We denote each type of articles with Emoji: 📜 🏛 📚
 
@@ -74,6 +60,21 @@ We recommend you at least go through the articles and take the:
 * [Python + Pandas tutorial](#engineering-tools-101)
 * setup your environment following [Setting up your data dojo](#setting-up-your-data-dojo)
   and run some practices
+
+
+-----------------
+
+## 🕐 Content of this guide
+
+This is meant to be a list of selected resources
+on what we think is the minimal set to bootstrap to working on data challenges.
+
+* [Getting started](#-getting-started)
+* [Engineering tools 101](#-engineering-tools-101)
+* [Setting up your data dojo](#-setting-up-your-data-dojo)
+* [Team working as proud geeks - Keep open mind](#-team-working-as-proud-keep-open-mind)
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contributing guideline
 
 
 -----------------
@@ -209,7 +210,6 @@ in how to create a clean notebook.
 
 
 -----------------
-
 
 ## 😈 Disclaimer
 
