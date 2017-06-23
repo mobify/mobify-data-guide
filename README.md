@@ -1,33 +1,33 @@
-```
-    ~
-    ░                                                                        
- .09░                                .ⁿ─      ⌐-                            
-    ░                               ┘    ¼  /  | ,                           
- .08░                             ,       1ⁿ   |   -                         
-    ░                                     ⌂╞   |    .                         
- .07░                            Γ       /  @  |                             
-    ░                           ╛       ╒    ╕ |     ,                       
- .06░                          á        ⌐    ⌐-       ╘                      
-    ░                         ╒        ┘      └        ï                     
- .05░                        ╒        ⌂        ╚        -                    
-    ░                                /          k        .                    
- .04░                       ┘       ;            ½                           
-    ░                      ╛       /           |  ½       ,.                  
- .03░                     ┘       /            |   Y        .                 
-    ░                   ╒        ⌂  . . . . . >|    ╘        -               
- .02░                  ∩       .               |      -       ,              
-    ░                ¬       .                 |       ^-       ⁿ            
- .01░             «,      .⌐                   |          ⁿ,       ~         
-    ░      ,.=¬,     .⌐,                       |              ,=- .   ,ⁿ⌐ . . .
-    +--------─~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~⌐~~~~~~~~~~~~~~~~¬~~~~~-----------|
-   0    1   2   3   4   5   6   7   8   9   10   11   12    13    14    15             
+```                       
+                                                .ⁿ─
+                  `:-.                        Γ     ¼  
+                 -yyyyys+:`                  ╛       ╕
+                /y╔▓▓yyyyy`  +o+/:-.        á         ╕
+              `o▄▓▓▓▓▓▓▄y-  :hhhhhhhs      ╒           -     
+             `s╙▀▀░▓▓░▀▀y+   yhhhhhhhy    ╒                ,.   
+         `-/oyyyyyy▓▓yyo   :hhhhhhhhs                    ⌂╞    ½    
+      -/oyyyyyyyyyy▓▓yo`   shhhhhhhhs    ┘              /  k     ½   
+    +yyyyyyyyyyyyyy▓▓+    `hhhhhhhhho   ╛              ⌂     ½     ï   
+    +yyyyyyyyyyyyyy▓▓     .hhhhhhhhho  ┘              ;        ½     -   
+    `yyyyyyyyys+/. ▓▓      yhhhhhhhhhs`              ;           Y     ╚
+     -yso+/-.`     ▓▓      .yhhhhhhhhhy.            ⌂              ╘      \,   
+             ```...▓▓`      `shhhhhhhhhy.         .                   -      ⁿ.
+       -://++++++++▓▓++/-`    /yhhhhhhhhy.      .                        ^-     ~,   
+       /+++++++++++▓▓+++++/.   `ohhhhhhy+`   .⌐                              ⁿ,   ▓▄
+      ░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓░▓▓▓▓
+       `+++++++++++▓▓++++++++++-`  -`                                             ▓▀
+        `......-...▓▓+++++++++++/`
+                   ▓▓`-/+++++++:`
+                   ▓▓    `.:/+:`       
 ```
 > Computer, compute to the last digit the value of pi.
 
 # Mobify Data Guide
 
-Welcome to Mobify's data guide!  We provide a list of readings that would be
-useful to get started working with any data set.
+Welcome to Mobify's data guide!  We have provided a list of readings that would be
+useful in getting started on with working with any data set.
+
+## 🤔 Why this guide?
 
 This is an open-source guide that is intended to gather feedback from various
 people that have worked with data teams.  In Mobify, we work closely with talents
@@ -228,4 +228,3 @@ selecting easy to get started tools that work with our well with our stack (e.g.
  `Jupyter Notebook`) - this is a way that we found it works well for us.
 
 We have no affiliation to any of the companies mentioned in this list.
-
