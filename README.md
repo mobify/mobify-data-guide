@@ -72,7 +72,7 @@ on what we think is the minimal set to bootstrap to working on data challenges.
 * [Data Science 101](#-data-science-101)
 * [Engineering tools 101](#-engineering-tools-101)
 * [Setting up your data dojo](#-setting-up-your-data-dojo)
-* [Team working as proud geeks - Keep open mind](#-team-working-as-proud-keep-open-mind)
+* [Think about the problem](#-think-about-the-problem)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contributing guideline
 
@@ -184,7 +184,7 @@ you a Jupyter pro.
 
 -----------------
 
-## 😎 Team working as proud geeks - Keep open mind
+## 😎 Think about the problem
 
 As most of us being proud of diving into our problems, and present our solutions.  Over time,
 we learn a few tools to align colleagues/fellow hackers with our thoughts. Here are a few:
@@ -197,7 +197,7 @@ we learn a few tools to align colleagues/fellow hackers with our thoughts. Here 
 
 It is a surprisingly difficult skill to learn how to work on the right problem.  Here are a few tips:
 
-* [📜 focus on problem and learn from customers](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
+* [📜 Focus on problem and learn from customers](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
 
 * Whiteboarding and Canvasing is a
 great way to open our mind.  More at [📜 Introducing the Deep Learning Canvas - a variation on Startup Canvas](https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11) - You can print this out or grab a whiteboard and draw this out.
