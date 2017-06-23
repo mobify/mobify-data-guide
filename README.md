@@ -1,20 +1,3 @@
-# Mobify Data Guide
-
-Welcome to Mobify's data guide!  We provide a list of readings that would be
-useful to get started working with any data set.
-
-This is an open-source guide that is intended to gather feedback from various
-people that have worked with data teams.  In Mobify, we work closely with talents
-from [wide variety of backgrounds](https://github.com/mobify/developer-values#️-promote-diversity-and-collaboration).
-
-🔥 🤔 😎 🕐 🚀 💭 🍾 😈 ⚖ 💕
-
-We hope that by opening some of our onboarding materials, this will give you a taste
-for what is our style of work, as well as helping out candidates on
-[interviews](https://www.mobify.com/jobs/how-to-land-job-mobify/), or
-[data hackathons](https://www.eventbrite.com/e/global-ai-hackathon-vancouver-bc-tickets-31891933632).
-
-
 ```
     ~
     ░                                                                        
@@ -41,6 +24,22 @@ for what is our style of work, as well as helping out candidates on
 ```
 > Computer, compute to the last digit the value of pi.
 
+# Mobify Data Guide
+
+Welcome to Mobify's data guide!  We provide a list of readings that would be
+useful to get started working with any data set.
+
+This is an open-source guide that is intended to gather feedback from various
+people that have worked with data teams.  In Mobify, we work closely with talents
+from [wide variety of backgrounds](https://github.com/mobify/developer-values#️-promote-diversity-and-collaboration).
+
+🔥 🤔 😎 🕐 🚀 💭 🍾 😈 ⚖ 💕
+
+We hope that by opening some of our onboarding materials, this will give you a taste
+for what is our style of work, as well as helping out candidates on
+[interviews](https://www.mobify.com/jobs/how-to-land-job-mobify/), or
+[data hackathons](https://www.eventbrite.com/e/global-ai-hackathon-vancouver-bc-tickets-31891933632).
+
 
 -----------------
 
@@ -57,8 +56,8 @@ We denote each type of articles with Emoji: 📜 🏛 📚
 
 We recommend you at least go through the articles and take the:
 
-* [Python + Pandas tutorial](#engineering-tools-101)
-* setup your environment following [Setting up your data dojo](#setting-up-your-data-dojo)
+* [Python + Pandas tutorial](#-engineering-tools-101)
+* Setup your environment following [Setting up your data dojo](#-setting-up-your-data-dojo)
   and run some practices
 
 
@@ -163,7 +162,7 @@ So are you ready to get started?  One thing we found correlated to the ability o
 is the ability to get comfortable with the environment that you will use during the
 interview.  We try to give a few tips.
 
-Also, see [Disclaimer](#disclaimer) - that Mobfiy is a Python shop and likely to be
+Also, see [Disclaimer](#-disclaimer) - that Mobfiy is a Python shop and likely to be
 Python focus for our data dojo! Our tool of choice is [Jupyter notebook](http://jupyter.org/)
 
 ### Hosted version
