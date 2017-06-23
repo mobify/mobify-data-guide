@@ -69,6 +69,7 @@ This is meant to be a list of selected resources
 on what we think is the minimal set to bootstrap to working on data challenges.
 
 * [Getting started](#-getting-started)
+* [Data Science 101](#-data-science-101)
 * [Engineering tools 101](#-engineering-tools-101)
 * [Setting up your data dojo](#-setting-up-your-data-dojo)
 * [Team working as proud geeks - Keep open mind](#-team-working-as-proud-keep-open-mind)
@@ -112,8 +113,8 @@ good starting point.
 
 ## 🚅 Engineering tools 101
 
-So ready to get started?  There are 3 main engineering tool we use and hope to gather
-some quick intro to bootstrap any beginners.
+Learning to code is an important step in becoming data literate.  There are 3 main 
+engineering tool we use.
 
 
 ### Python + Pandas
