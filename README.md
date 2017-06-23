@@ -142,18 +142,17 @@ for this.
 
 ### Git
 
-> "Why do I care about git/(x version control)?", Anon, including a lot of us in the past.
+Git solves 2 big communication challenge working as a team:
 
-That's a common question that is asked.  As an engineering
-company where we seek [📚 open discussion](https://github.com/mobify/developer-values#-seek-feedback)
-a lot of our discussion happen through [📚 Pull request](https://code.tutsplus.com/tutorials/using-pull-requests-as-code-reviews--cms-21959).  Being familiar with your workflow on git will
-help you in communicating with your peers.
+* Resolving how multiple people work on the same piece of code, on their own computer
+* With branching, and pull request that github.com provides - this encourage discussion
+  through [📚 Pull request](https://code.tutsplus.com/tutorials/using-pull-requests-as-code-reviews--cms-21959).
 
-> The [🏛 Codecademy git course](https://www.codecademy.com/learn/learn-git) is our recommended way
+The [🏛 Codecademy git course](https://www.codecademy.com/learn/learn-git) is our recommended way
   to learn git.
 
-(advance) If you are interested - our [📚 branching strategy](https://github.com/mobify/branching-strategy)
-  is a good way to learn about real-life discipline on how we use git.
+* (advance) If you are interested - our [📚 branching strategy](https://github.com/mobify/branching-strategy)
+  is a good way to learn about real-life discipline on how we use git to co-ordinate effort.
 
 
 -----------------
