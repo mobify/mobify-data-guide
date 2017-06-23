@@ -24,8 +24,8 @@
 
 # Mobify Data Guide
 
-Welcome to Mobify's data guide!  We provide a list of reading that would be
-useful to get started working with any data set.
+Welcome to Mobify's data guide!  We have provided a list of readings that would be
+useful in getting started on with working with any data set.
 
 ## 🤔 Why this guide?
 
