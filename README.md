@@ -82,11 +82,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contributing guideline
 ## 💭 Getting started
 
 So you would like to work on data eh?  There are many great resources to get you
-started on the path to work with data.  For us, we recommend a few of these
+started on the path to work with data.  We recommend a few of these
 articles:
 
 * [📜 Quora's answer - How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist-1)
-    - Focus on career path on Data scientist. Gives good overview for background/readings that would be helpful
+    - Gives good overview for background/readings that would be helpful
     - A few of these articles we will dive in at following sections
 
 * [📜 Applying the Scientific Method to Software Engineering](https://medium.com/lightstephq/solving-research-problems-before-lunch-applying-the-scientific-method-to-software-engineering-fded26f51038)
@@ -114,7 +114,7 @@ good starting point.
 ## 🚅 Engineering tools 101
 
 Learning to code is an important step in becoming data literate.  There are 3 main 
-engineering tool we use.
+engineering tools we use.
 
 
 ### Python + Pandas
